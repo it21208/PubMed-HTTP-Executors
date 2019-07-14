@@ -1,0 +1,9 @@
+0    [pool-1-thread-2] INFO  FetchPubMedArticles  - pool-1-thread-2 |--> GET E-Post (400, 799)
+0    [pool-1-thread-1] INFO  FetchPubMedArticles  - pool-1-thread-1 |--> GET E-Post (0, 399)
+2112 [pool-1-thread-1] INFO  FetchPubMedArticles  - pool-1-thread-1 |----> GET E-Fetch (0, 399)
+2417 [pool-1-thread-2] INFO  FetchPubMedArticles  - pool-1-thread-2 |----> GET E-Fetch (400, 799)
+12420 [pool-1-thread-1] ERROR FetchPubMedArticles  - ERROR: [0, 399] - Fetched sublist has size 0, while posted sublist has size 400
+12424 [pool-1-thread-1] INFO  FetchPubMedArticles  - pool-1-thread-1 |--> GET E-Post (800, 1013)
+12476 [pool-1-thread-2] ERROR FetchPubMedArticles  - ERROR: [400, 799] - Fetched sublist has size 0, while posted sublist has size 400
+14430 [pool-1-thread-1] INFO  FetchPubMedArticles  - pool-1-thread-1 |----> GET E-Fetch (800, 1013)
+25064 [pool-1-thread-1] ERROR FetchPubMedArticles  - ERROR: [800, 1013] - Fetched sublist has size 0, while posted sublist has size 214

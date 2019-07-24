@@ -1,4 +1,4 @@
-package gr.uoa.di.rdf.pubmed_http;
+package gr.uos.di.rdf.pubmed_http;
 
 import java.io.BufferedReader;
 import java.io.ByteArrayInputStream;

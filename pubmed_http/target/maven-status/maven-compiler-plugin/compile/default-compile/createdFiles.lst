@@ -1,2 +1,2 @@
-gr/uoa/di/rdf/pubmed_http/FetchPubMedArticles$EntrezHistoryUIDs.class
-gr/uoa/di/rdf/pubmed_http/FetchPubMedArticles.class
+gr/uos/di/rdf/pubmed_http/FetchPubMedArticles$EntrezHistoryUIDs.class
+gr/uos/di/rdf/pubmed_http/FetchPubMedArticles.class

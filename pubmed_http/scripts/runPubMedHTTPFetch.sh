@@ -39,7 +39,7 @@ CLASS_PATH="./classes:${CLASS_PATH}"
 #echo "CLASS_PATH2 = ${CLASS_PATH}"
 
 # define the executing-main class
-MAIN_CLASS="gr.uoa.di.rdf.pubmed_http.FetchPubMedArticles"
+MAIN_CLASS="gr.uos.di.rdf.pubmed_http.FetchPubMedArticles"
 
 EXEC="java $JAVA_OPTS -cp $CLASS_PATH $MAIN_CLASS -input ${InputFile} -batch ${PostBatchSize} -threads ${Threads} -outdir ${OutputDir}"
 

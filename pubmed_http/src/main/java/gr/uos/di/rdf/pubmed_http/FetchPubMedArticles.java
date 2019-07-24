@@ -52,7 +52,6 @@ public class FetchPubMedArticles implements Runnable {
     private static String erroneousPMIDsFile = "";
     private static int POST_BATCH_SIZE = 400;
     //private static final int FETCH_BATCH_SIZE = 400;
-    private static final String API_KEY_TIOA = "96224f21d4167737bcd710073a3564115907";
     private static final String API_KEY_ALEX = "699b4b70c99abf960bba84de689b38ffc709";
     private static final String API_KEY = API_KEY_ALEX;
     private static List<String> pmidList = null;

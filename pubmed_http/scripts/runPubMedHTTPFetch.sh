@@ -5,9 +5,9 @@
 #
 #  From within the PROJECT/scripts folder issue the following command:
 #
-#  time ./runPubMedHTTPFetch.sh -Xmx8g test.txt 400 2 /home/tioannid/NetBeansProjects/PERSONAL/ALEXANDROS/output/
+#  time ./runPubMedHTTPFetch.sh -Xmx8g test.txt 400 2 /home/alex/Desktop/output/
 #
-# This command will use as input file the "test.txt", epost batch size 400, 2 threads and use as output directory the /home/tioannid/NetBeansProjects/PERSONAL/ALEXANDROS/output/
+# This command will use as input file the "test.txt", epost batch size 400, 2 threads and use as output directory /home/alex/Desktop/output/
 # The command will also report the duration of the execution.
 
 

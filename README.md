@@ -1,4 +1,4 @@
-# pubmed_http
+# pubmed_http_executors
 
 ##### Alexandros Ioannidis
 
